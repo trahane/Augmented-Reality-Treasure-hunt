@@ -10,15 +10,15 @@ Team Lead:
   Tejas R Rahane
 
 Core Developers:
-  Swapnil Patil
-  Tejas R Rahane
+Swapnil Patil
+Tejas R Rahane
  
 UI Developer:
-  Pradeep Kumar
+Pradeep Kumar
 
 Other Development:
-  Pranav Shirsul
-  Kirtiraj Patil
+Pranav Shirsul
+Kirtiraj Patil
   
   
 ****************************************************************************************
