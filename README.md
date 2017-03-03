@@ -7,17 +7,23 @@ Developed at Computer Department Sinhgad College of Engineering.
 ****************************************************************************************
 CREDITS
 Team Lead:
-  Tejas R Rahane
+
+Tejas R Rahane
 
 Core Developers:
+
 Swapnil Patil
+
 Tejas R Rahane
  
 UI Developer:
+
 Pradeep Kumar
 
 Other Development:
+
 Pranav Shirsul
+
 Kirtiraj Patil
   
   
