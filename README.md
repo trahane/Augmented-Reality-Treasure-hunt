@@ -1,8 +1,6 @@
 # Augmented-Reality-Treasure-hunt
 An AR game created in unity3d game engine for college festival (Sinhgad Karandak 2k17)
 
-Get Complete project and apk here: https://drive.google.com/drive/folders/0B5RCq1ylvhcHTHIwM0pzaGV5bE0?usp=sharing
-
 Developed at Computer Department, Sinhgad College of Engineering, Pune.
 
 ****************************************************************************************
