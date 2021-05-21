@@ -39,5 +39,3 @@ Description:
   The challenge here was a question for coding a program. We used Vuforia SDK for this project.
   We have changed the TrackableBehaviour script in order to suit our purpose.
   
-  Find the complete project here:
-  https://drive.google.com/drive/folders/0B5RCq1ylvhcHTHIwM0pzaGV5bE0?usp=sharing
